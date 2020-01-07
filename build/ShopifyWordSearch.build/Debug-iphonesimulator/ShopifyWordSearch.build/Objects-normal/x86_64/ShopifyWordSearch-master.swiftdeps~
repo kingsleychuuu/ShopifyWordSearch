@@ -1,9 +1,9 @@
 version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
 options: "e9a6ef6a8f58343f44272de8c0801948"
-build_time: [1557184490, 995154000]
+build_time: [1557184542, 510452000]
 inputs:
   "/Users/admin/Desktop/ShopifyWordSearch/ShopifyWordSearch/View/GridCollectionViewCell.swift": [1557104302, 0]
-  "/Users/admin/Desktop/ShopifyWordSearch/ShopifyWordSearch/Controller/GridCollectionViewController.swift": [1557184490, 0]
+  "/Users/admin/Desktop/ShopifyWordSearch/ShopifyWordSearch/Controller/GridCollectionViewController.swift": [1557184542, 0]
   "/Users/admin/Desktop/ShopifyWordSearch/ShopifyWordSearch/AppDelegate.swift": [1556911189, 0]
   "/Users/admin/Desktop/ShopifyWordSearch/ShopifyWordSearch/Model/WordSearch.swift": [1556917864, 0]
   "/Users/admin/Desktop/ShopifyWordSearch/ShopifyWordSearch/View/GridCollectionViewFooter.swift": [1557175145, 0]
